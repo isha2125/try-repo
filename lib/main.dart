@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
        
         primarySwatch: Color.fromARGB(255, 0, 0, 0),
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Flu'),
     );
   }
 }
